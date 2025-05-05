@@ -30,3 +30,8 @@ A Go client SDK for producing and consuming events from Ripple clusters.
 ### 🔹 benchmark
 Performance benchmarking tools to evaluate Ripple’s throughput and latency under different scenarios.
 
+---
+
+## Result
+
+<img width="542" alt="Screenshot 2025-05-05 at 4 08 56 PM" src="https://github.com/user-attachments/assets/96198402-cd3e-46d0-a56f-7025079f17ca" />
